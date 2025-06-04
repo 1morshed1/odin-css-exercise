@@ -1,0 +1,13 @@
+.asa,.rei {
+    font-size: 28px;
+    font-family: 'Helvetica','Times New Roman', sans-serif;
+}
+
+.asa {
+    background-color: black;
+    color: white;
+}
+
+.rei {
+    background-color: yellow;
+}
