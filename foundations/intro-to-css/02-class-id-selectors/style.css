@@ -1,0 +1,19 @@
+.eva {
+    background-color: lightpink;
+    font-family:"DejaVu Sans",sans-serif;
+}
+
+#aoi {
+    color: blue;
+    font-size: 36px;
+}
+
+.eva#asa {
+    font-size: 24px;
+}
+
+#denji {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
